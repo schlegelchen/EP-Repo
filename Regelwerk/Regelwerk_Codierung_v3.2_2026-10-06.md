@@ -139,3 +139,7 @@ Zwei Codierer codieren blind nach diesem Regelwerk (Claude, Astra), ohne Kenntni
 ## Gegenprüfung der t0-Codes gegen v3.2 (vorläufig, Claude 06.10.2026)
 
 Die konsolidierten t0-Codes enthalten weder B°/R° noch „nicht entscheidbar“; die Änderungen (2) und (4) können sie daher nicht verändern. Für (3) wurden die Dk-Codes überschlägig darauf geprüft, ob die genannte Gegenbindung „substanziell“ ist (z. B. SRB-P: EAWU-Freihandel; GEO-P: Einbindung abtrünniger Gebiete; MDA-P: GUS; GEO-M/MDA-M: Truppen in abtrünnigen Gebieten; SRB-M: Rüstungsbezug). *Ergebnis vorläufig: unverändert.* Eine förmliche Gegenprüfung aller 20 Zeilen steht aus (*zu prüfen*, kann Teil der Fixierung sein).
+
+## Klarstellungen nach der Fixierung (offen ausgewiesen, C4)
+
+- **K1 (06.10.2026, D15), Frage 6:** Die Aufzählung „substanziell“ ist nicht abschließend. Als substanzielle Bindung zählt auch die **Mehrheitsbeteiligung eines Pols an einem Netzbetreiber oder am größten Unternehmen eines Kernsektors** (Logik von Frage 1, Wirtschaft). Gilt für t0 und t1 und beide Codierer.
