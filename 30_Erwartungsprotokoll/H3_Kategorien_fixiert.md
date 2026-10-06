@@ -2,8 +2,8 @@
 titel: "H3 Zusatzimplikation A (Beschlusssperre): Hindernisse und berührende Kategorien"
 typ: erwartungsprotokoll
 datum: 2026-10-04
-status: entwurf
-fixiert_am:
+status: fixiert
+fixiert_am: 2026-10-06
 tags: [erwartungsprotokoll, h3, beschlusssperre, dimension-m, b6a, b7]
 bezug: "[[H3_Zusatzimplikationen_2026-09-29]] (Vorschlag A) · [[Entscheidungsprotokoll_2026-10-04]] · [[Prompts_Nachtraege_und_Erwartungsprotokoll_2026-10-04]] (EP0)"
 ---

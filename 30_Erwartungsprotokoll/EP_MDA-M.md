@@ -12,8 +12,8 @@ ableitung_von: Levi
 erstellt_am: 2026-10-05
 kenntnis_endzustand: teilweise
 blindheitsstufe: 3
-status: entwurf
-fixiert_am:
+status: fixiert
+fixiert_am: 2026-10-06
 sha256:
 tags:
   - erwartungsprotokoll

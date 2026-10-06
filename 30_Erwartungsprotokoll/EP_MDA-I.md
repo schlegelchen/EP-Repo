@@ -12,8 +12,8 @@ ableitung_von: Levi
 erstellt_am: 2026-10-05
 kenntnis_endzustand: teilweise
 blindheitsstufe: 3
-status: entwurf
-fixiert_am:
+status: fixiert
+fixiert_am: 2026-10-06
 sha256:
 tags:
   - erwartungsprotokoll
@@ -91,6 +91,39 @@ Werte und Begründungen: Moderatoren_t0_v2_2026-10-05. In der Ableitung werden R
 - **H3** – nicht Gegenstand dieser Zelle (H1).
 - **H4** – nicht Gegenstand dieser Zelle (H1).
 
+**Nachtrag Selbstbeschreibung der neuen Träger (2026-10-06, Sonnet):** zu H1. Erfasst sind nur Aussagen der Träger über die eigene Orientierung, Quellenstand bis 23.02.2022. Keine Einstufung B/R, keine Ableitung. Deutsche Wiedergaben sind eigene Übersetzungen. Schreibung der Zitate wie in der Quelle. Seitenangaben des Regierungsprogramms nach gedruckter Paginierung (Titelblatt ungezählt).
+
+| Träger | Dokument/Anlass | Datum | Zitat (Original) | Wiedergabe deutsch | Fundstelle/URL | Primär/Sekundär |
+|---|---|---|---|---|---|---|
+| Regierung Gavrilița (PAS-geführt) | Regierungsprogramm „Moldova vremurilor bune“, Kap. III Obiective de dezvoltare | 03.08.2021 (Titelblatt; Abstimmung im Parlament 06.08.2021) | „… cetăţenii au susţinut o viziune de ţară care presupune transpunerea modelului european de dezvoltare şi creşterea standardelor de viaţă în Republica Moldova.“ | „… die Bürger haben eine Landesvision unterstützt, die die Übertragung des europäischen Entwicklungsmodells und die Anhebung der Lebensstandards in der Republik Moldau voraussetzt.“ | S. 6, Kap. III, erster Absatz. https://gov.md/sites/default/files/media/documents/2025-03/programul_de_activitate_al_guvernului_moldova_vremurilor_bune.pdf | Primär |
+| Regierung Gavrilița (PAS-geführt) | Regierungsprogramm „Moldova vremurilor bune“, Kap. III, Entwicklungsziele | 03.08.2021 | „Promovarea unei politici externe active şi demne, orientate spre restabilirea şi consolidarea relaţiilor bune cu România, Ucraina, UE, SUA, Rusia şi alte ţări …“ | „Förderung einer aktiven und würdevollen Außenpolitik, die auf die Wiederherstellung und Festigung guter Beziehungen zu Rumänien, der Ukraine, der EU, den USA, Russland und anderen Ländern ausgerichtet ist …“ | S. 7, Kap. III, Aufzählung der Entwicklungsziele (2. Punkt der Seite). Gleiche URL | Primär |
+| PAS (Natalia Gavrilița, Vizepräsidentin der Partei) | Wahlkampfaussage vor der Parlamentswahl 11.07.2021 | 09.07.2021 | „Vom îndeplini paşii necesari pentru integrarea europeană și vom dezvolta relații puternice cu toate țările lumii.“ | „Wir werden die notwendigen Schritte zur europäischen Integration unternehmen und starke Beziehungen zu allen Ländern der Welt entwickeln.“ | Wiki-Seite „Declarațiile PAS în perioada alegerilor parlamentare din 2021“, Eintrag 9 iulie 2021. https://alegeri.md/w/Declara%C8%9Biile_PAS_%C3%AEn_perioada_alegerilor_parlamentare_din_2021 | Sekundär (Wiki-Sammlung; Originalquelle des Eintrags dort nicht ausgewiesen, nicht geprüft) |
+| Regierung Gavrilița (Vizepremier und Außenminister Nicu Popescu) | MFA-Pressemitteilung zum Treffen mit Lawrow in Moskau | 17.11.2021 | „Ne dorim un dialog pragmatic orientat spre un parteneriat reciproc avantajos“ (Überschrift, Popescu zugeschrieben) | „Wir wünschen uns einen pragmatischen Dialog, der auf eine für beide Seiten vorteilhafte Partnerschaft ausgerichtet ist.“ | Überschrift der Pressemitteilung. https://mfa.gov.md/ro/content/seful-diplomatiei-republicii-moldova-nicu-popescu-dupa-intrevederea-cu-omologul-rus-serghei | Primär |
+| Regierung Gavrilița (Vizepremier und Außenminister Nicu Popescu) | Dieselbe Pressemitteilung, Text | 17.11.2021 | „… a fost reiterată poziția principială a Republicii Moldova privind necesitatea reluării procesului de retragere a trupelor ruse dislocate în regiunea transnistreană.“ | „… wurde die grundsätzliche Position der Republik Moldau bekräftigt, dass der Abzug der in der transnistrischen Region stationierten russischen Truppen wieder aufgenommen werden muss.“ | Pressemitteilung, 5. Absatz (Wortlaut des Ministeriums, kein wörtliches Zitat Popescus). Gleiche URL | Primär |
+| Regierung Gavrilița (Außenministerium; bilateral mit Russland) | Gemeinsame Erklärung der Außenminister zum 20. Jahrestag des Freundschafts- und Kooperationsvertrags MD–RU | 17.11.2021 (Veröffentlichung; Jahrestag 19.11.) | „… în baza principiilor pragmatismului și luării în considerare a intereselor reciproce, respectării neutralității Republicii Moldova.“ | „… auf der Grundlage der Prinzipien des Pragmatismus und der Berücksichtigung gegenseitiger Interessen sowie der Achtung der Neutralität der Republik Moldau.“ | 4. Absatz. https://mfa.gov.md/ro/content/declaratia-comuna-ministrilor-de-externe-cu-ocazia-celei-de-20-aniversari-de-la-semnarea | Primär (gemeinsame Erklärung beider Seiten, nicht allein Selbstbeschreibung der Regierung) |
+| Regierung Gavrilița (Vizepremier und Außenminister Nicu Popescu) | MFA-Pressemitteilung zur Videokonferenz mit den Missionschefs, Jahresbilanz 2021 und Ziele 2022 | 13.01.2022 | „În noul an acțiunea diplomației Republicii Moldova se va călăuzi după conceptul 4D: Dezvoltare europeană, Dialog, Diasporă și Diplomație economică.“ | „Im neuen Jahr wird sich das Handeln der Diplomatie der Republik Moldau am 4D-Konzept orientieren: Europäische Entwicklung, Dialog, Diaspora und Wirtschaftsdiplomatie.“ | 1. Absatz (Wortlaut des Ministeriums). https://mfa.gov.md/ro/content/ministrul-nicu-popescu-catre-corpul-diplomatic-national-sa-facem-auzita-vocea-republicii | Primär |
+| Regierung Gavrilița (Vizepremier und Außenminister Nicu Popescu) | Dieselbe Pressemitteilung, wörtliches Zitat | 13.01.2022 | „Ne dorim în continuare promovarea unei politici externe previzibile și consecvente orientată spre cetățeni și agenda de reforme solicitate de către aceștia.“ | „Wir wollen weiterhin eine vorhersehbare und konsequente Außenpolitik fördern, die auf die Bürger und die von ihnen geforderte Reformagenda ausgerichtet ist.“ | 2. Absatz, Zitat Popescus. Gleiche URL | Primär |
+
+**Suchweg (Stichworte):**
+- Regierungsprogramm: „Programul de activitate al Guvernului Gavrilița 2021“, „Moldova vremurilor bune“. gov.md-Liste „Planuri de activitate“ (Datei vom 20.08.2021). PDF per WebFetch gelesen bis S. 35 von 45.
+- In dem gelesenen Teil gesichtet, wegen der Zitatgrenze von zwei Sätzen je Quelle nicht aufgenommen: S. 9 (Auftrag des Ministeriums für Auswärtiges und Europäische Integration, „monitorizarea şi coordonarea procesului de integrare europeană“), S. 19 (Rechtsstaatsmechanismus „cu Uniunea Europeană“, Vorbild Rumänien/Bulgarien), S. 5 (hybride Risiken und asymmetrische Energieabhängigkeit, Russland dort nicht genannt).
+- Investiturrede Gavrilița 06.08.2021: Suche „discursul premierului desemnat … 6 august 2021“ mit Domainfilter gov.md, parlament.md, presedinte.md, moldpres.md; zweite Suche „votul de încredere … integrare europeană“. Kein Treffer.
+- PAS-Wahlprogramm 2021: Suche „Program electoral PAS 2021“ mit Domainfilter pas.md, alegeri.md, cec.md. Seite „Programul electoral al PAS din 2021“ auf alegeri.md: 404. Gefunden wurde nur das Programm 2025, das wegen des Datums nicht verwendet wurde.
+- Vereidigung der Regierung 06.08.2021 (moldpres): gesichtet, keine Aussage zur Orientierung.
+- OSW-Analyse vom 06.08.2021 (Całus), aus dem Beleg zu H1 bekannt: erneut gesichtet, enthält keine wörtlichen Selbstaussagen der Träger, deshalb nicht aufgenommen (Presse, sekundär).
+- Treffer mit Datum nach 23.02.2022 wurden verworfen. Dazu zählt das Popescu-Interview bei Radio Europa Liberă vom 03.05.2022.
+
+**Offene Punkte:**
+- Regierungsprogramm S. 36–45 (u. a. Außenpolitik, Sicherheit, Kultur und Sprache) nicht gelesen: WebFetch liefert den Text nur bis S. 35, der Shell-Abruf von gov.md wurde mit HTTP 403 abgewiesen. Manuelle Durchsicht des PDF nötig.
+- „Vom Parlament gebilligt“: Titelblatt datiert das Programm auf 03.08.2021. Abstimmung am 06.08.2021 mit 61 Stimmen belegt (siehe H1), Nummer und Wortlaut des Parlamentsbeschlusses nicht geprüft.
+- Investiturrede der Ministerpräsidentin: nicht belegt (Suchweg oben).
+- PAS-Wahlprogramm 2021 im Wortlaut: nicht belegt. Von mir nicht abgerufen: PAS-Kampagnenseite (unpaspentru.md).
+- Eintrag vom 09.07.2021: Originalquelle (Rede, Facebook-Post, Pressemitteilung) offen. Bei Verwendung im Haupttext ersetzen.
+- MFA-Seite „Dimensiunea Diplomatică“ (Sendung im öffentlichen Rundfunk): nicht gelesen, Abruf-Proxy HTTP 429. Datum und Inhalt unbekannt.
+- Die Zeilen vom 17.11.2021 (Lawrow-Treffen, gemeinsame Erklärung) betreffen das Verhältnis zu Russland. Die gemeinsame Erklärung formuliert beide Seiten, die Neutralitätsformel steht dort nicht als Alleinaussage der Regierung.
+- Aussagen von Präsidentin Sandu sind nicht aufgenommen: sie ist weder Regierungschefin noch Mitglied der Regierung (ihre Aussage vom 24.12.2020 steht bereits oben bei H1).
+- Zitate der MFA-Seiten gegen den Seitentext geprüft. Das Zitat vom 09.07.2021 stammt aus der Wiki-Seite, nicht aus dem Original.
+
 ## 6 Ableitung (Levi)
 
 **Ableitungsregeln nach Dimension**
@@ -106,10 +139,10 @@ Werte und Begründungen: Moderatoren_t0_v2_2026-10-05. In der Ableitung werden R
 3. Blockade: entfällt.
 *Formulierung der I-Regel: Vorschlag Claude zu D6, von Levi bestätigt am 05.10.2026.*
 
-**Erwartete Richtung:** unbestimmt
+**Erwartete Richtung:** B
 **Erwartete Blockade:** entfällt
-**Konfidenz:** niedrig
-**Begründung (2–4 Sätze):** Regelergebnis nach B6c, von Levi am 06.10.2026 übernommen (D9). Die Ersetzung von Regierungschef und führender Partei am 06.08.2021 ist belegt, eine Selbstbeschreibung der Regierung Gavrilița bzw. der PAS aus 2021 fehlt jedoch im Bogen; Regel 2 ergibt deshalb unbestimmt. Konfidenz niedrig, weil das Ergebnis auf einer Beleglücke beruht; ein Nachtrag einer Selbstbeschreibung von vor dem Stichtag ist vor B7 möglich und würde eine neue Ableitung erfordern.
+**Konfidenz:** mittel
+**Begründung (2–4 Sätze):** Regelanwendung nach dem Nachtrag in Abschnitt 5 (Nachprüfung Claude, 06.10.2026; Levi bestätigt mit B7). Die Ersetzung vom 06.08.2021 ist belegt, und die neuen Träger beschreiben ihre Orientierung primär belegt als europäisch: Regierungsprogramm vom 03.08.2021 („transpunerea modelului european de dezvoltare“, S. 6) und Außenministerium 13.01.2022 („Dezvoltare europeană“). Regel 2 ergibt B. Konfidenz mittel, weil dieselben Quellen zugleich „gute Beziehungen“ und „pragmatischen Dialog“ mit Russland nennen und die Aussagen eher Entwicklungs- und Außenpolitik als Wertorientierung betreffen; das ersetzte Regelergebnis vom 06.10.2026 lautete „unbestimmt“ (Beleglücke).
 
 **Autorurteil Levi (B6b, 05.10.2026; D9, wird zusätzlich geprüft):** Richtung B · Blockade entfällt · Konfidenz hoch.
 Russland dürfte als gesellschaftlicher und politischer Attraktionspol weiter an Legitimität verlieren. Gleichwohl verschwinden prorussische Einstellungen nicht vollständig. Insbesondere in Teilen der ländlichen und russischsprachigen Bevölkerung können bestehende Sympathien durch politische Mobilisierung, Desinformation und andere Formen hybrider Einflussnahme weiterhin aktiviert und verstärkt werden. Regionale Sonderfälle bleiben dabei Gagauzien und Transnistrien, in denen prorussische Orientierungen weiterhin besonders stark ausgeprägt sind. Insgesamt ist daher weniger von einem vollständigen Verschwinden prorussischer Einstellungen als von einer zunehmenden gesellschaftlichen Marginalisierung Russlands als übergreifendem Integrations- und Identifikationspol auszugehen.
